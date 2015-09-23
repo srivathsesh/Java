@@ -1,0 +1,7 @@
+
+public class getDistTester {
+	public static void main(String[] args){
+getDist test = new getDist();
+System.out.println(test);
+	}
+}
